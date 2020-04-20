@@ -1,0 +1,11 @@
+Ссылки на инструменты, упомянутые в лекциях
+
+ Oracle Java SDK http://www.oracle.com/technetwork/java/javase/downloads/index.html
+
+ Сборщик Gradle http://gradle.org/
+
+ Среда разработки IntelliJ IDEA Community Edition https://www.jetbrains.com/idea/#chooseYourEdition
+
+ Сервис хранения кода GitHub https://github.com/
+
+ Десктопный клиент для работы с GitHub https://desktop.github.com/
