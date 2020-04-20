@@ -1,15 +1,15 @@
-Ссылки на инструменты, упомянутые в лекциях
+Г‘Г±Г»Г«ГЄГЁ Г­Г  ГЁГ­Г±ГІГ°ГіГ¬ГҐГ­ГІГ», ГіГЇГ®Г¬ГїГ­ГіГІГ»ГҐ Гў Г«ГҐГЄГ¶ГЁГїГµ
 
  Oracle Java SDK http://www.oracle.com/technetwork/java/javase/downloads/index.html
 
- Сборщик Gradle http://gradle.org/
+ Г‘ГЎГ®Г°Г№ГЁГЄ Gradle http://gradle.org/
 
- Среда разработки IntelliJ IDEA Community Edition https://www.jetbrains.com/idea/#chooseYourEdition
+ Г‘Г°ГҐГ¤Г  Г°Г Г§Г°Г ГЎГ®ГІГЄГЁ IntelliJ IDEA Community Edition https://www.jetbrains.com/idea/#chooseYourEdition
 
- Сервис хранения кода GitHub https://github.com/
+ Г‘ГҐГ°ГўГЁГ± ГµГ°Г Г­ГҐГ­ГЁГї ГЄГ®Г¤Г  GitHub https://github.com/
 
- Десктопный клиент для работы с GitHub https://desktop.github.com/
-\\тест
+ Г„ГҐГ±ГЄГІГ®ГЇГ­Г»Г© ГЄГ«ГЁГҐГ­ГІ Г¤Г«Гї Г°Г ГЎГ®ГІГ» Г± GitHub https://desktop.github.com/
+\\С‚РµСЃС‚РёРє
 
 C:\Program Files\Java\jdk-14.0.1\
 
