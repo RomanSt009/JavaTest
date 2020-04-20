@@ -9,7 +9,7 @@
  Ñåðâèñ õðàíåíèÿ êîäà GitHub https://github.com/
 
  Äåñêòîïíûé êëèåíò äëÿ ðàáîòû ñ GitHub https://desktop.github.com/
-\\тестик
+\\тест_01
 
 C:\Program Files\Java\jdk-14.0.1\
 
