@@ -9,3 +9,8 @@
  Сервис хранения кода GitHub https://github.com/
 
  Десктопный клиент для работы с GitHub https://desktop.github.com/
+
+
+C:\Program Files\Java\jdk-14.0.1\
+
+63980296+RomanSt009@users.noreply.github.com
