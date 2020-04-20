@@ -9,7 +9,7 @@
  Сервис хранения кода GitHub https://github.com/
 
  Десктопный клиент для работы с GitHub https://desktop.github.com/
-
+\\тест
 
 C:\Program Files\Java\jdk-14.0.1\
 
